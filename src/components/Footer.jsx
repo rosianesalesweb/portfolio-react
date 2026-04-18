@@ -1,3 +1,7 @@
 export default function Footer() {
-  return <h1>RODAPÉ TESTE GRANDE</h1>;
+  return (
+    <footer>
+      <p>TESTE RODAPÉ</p>
+    </footer>
+  );
 }
